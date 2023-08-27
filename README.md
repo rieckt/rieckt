@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VueJs, Tailwind**
 
-- 👨‍💻 All of my projects are available at [rieckt.de](rieckt.de)
+- 👨‍💻 All of my projects are available at ----
 
 - 💬 Ask me about **moodle, react, vue, php**
 
