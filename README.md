@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Moodle](moodle.org)
 
-- 🌱 I’m currently learning **ReactJS, Tailwind**
+- 🌱 I’m currently learning **NextJS, PHP, JavaScript**
 
 - 👨‍💻 All of my projects are available at ----
 
