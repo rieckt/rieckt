@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:dev.to)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nSimplify README design for cleaner look\n\n- Remove broken ASCII art header\n- Fix Gmail badge formatting\n- Remove broken quote box\n- Simplify About Me to JS object format\n- Use flat-square badge style for consistency\n- Remove decorative GIF\n- Cleaner section structure\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nRedesign with purple space theme\n\n- New venom-style header with purple gradient\n- Remove Vue.js, Angular, SASS, Bootstrap from stack\n- Add skillicons.dev for cleaner tech display\n- Two-column layout with About + Top Languages\n- Collapsible details for tech stack\n- Purple color scheme \\(#a78bfa, #8b5cf6, #2d1b69\\)\n- Update snake colors to match theme\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}

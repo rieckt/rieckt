@@ -1,81 +1,90 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Tim" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1040,100:2d1b69&height=200&section=header&text=Tim%20Rieck&fontSize=60&fontColor=a78bfa&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descColor=8b5cf6&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Full+Stack+Developer+%7C+Germany" alt="Subtitle" />
+<br/>
 
-<br/><br/>
-
-<a href="mailto:timlouis.rieck@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-timlouis.rieck%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+[![Gmail](https://img.shields.io/badge/timlouis.rieck@gmail.com-1a1040?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:timlouis.rieck@gmail.com)
+[![GitHub](https://img.shields.io/badge/rieckt-1a1040?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/rieckt)
 
 </div>
 
 <br/>
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```js
+### About
+
+```ts
 const tim = {
-  role: "Full Stack Developer",
-  code: ["TypeScript", "JavaScript", "PHP"],
-  focus: ["Modern Web Apps", "Clean Architecture", "DX"],
-  currentlyExploring: "AI-powered Development",
-};
+  location: "Germany",
+  focus: [
+    "Modern Web Apps",
+    "Clean Architecture",
+    "Developer Experience"
+  ],
+  exploring: "AI-powered Dev"
+} as const;
 ```
 
+</td>
+<td width="50%" valign="top">
+
+### Currently
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieckt&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b5cf6" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
+
+<div align="center">
 
 ## Tech Stack
 
-<div align="center">
+<br/>
 
-**Frameworks**
+<img src="https://skillicons.dev/icons?i=nextjs,astro,react,ts,nodejs,prisma,postgres,tailwind,vercel,docker,git,figma&theme=dark&perline=6" />
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<br/><br/>
 
-**Styling**
+<details>
+<summary><b>More details</b></summary>
+<br/>
 
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| **Frameworks** | Next.js, Astro, React |
+| **Language** | TypeScript, JavaScript, PHP |
+| **Backend** | Node.js, Convex, Prisma |
+| **Database** | PostgreSQL |
+| **Styling** | Tailwind CSS, shadcn/ui |
+| **Tools** | Vercel, Docker, Git, Figma |
 
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</details>
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ## Contributions
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rieckt/rieckt/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rieckt/rieckt/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/rieckt/rieckt/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rieckt/rieckt/output/github-snake.svg" />
 </picture>
+
+</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1040,100:0d1117&height=120&section=footer"/>
