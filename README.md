@@ -1,88 +1,118 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+rieckt!;" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rieckt&label=Profile%20views&color=0e75b6&style=flat" alt="rieckt" />
+
+```
+ ██████╗ ██╗███████╗ ██████╗██╗  ██╗████████╗
+ ██╔══██╗██║██╔════╝██╔════╝██║ ██╔╝╚══██╔══╝
+ ██████╔╝██║█████╗  ██║     █████╔╝    ██║
+ ██╔══██╗██║██╔══╝  ██║     ██╔═██╗    ██║
+ ██║  ██║██║███████╗╚██████╗██║  ██╗   ██║
+ ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Full+Stack+Developer;Building+the+Future+with+Modern+Web+Tech" alt="Typing SVG" />
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/timlouis.rieck-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:timlouis.rieck@gmail.com)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 Aktuell arbeite ich an **[Moodle](https://moodle.org)** Projekten
-- 🌱 Lerne derzeit **NextJS, PHP, JavaScript** und erweitere kontinuierlich meine Skills
-- 👨‍💻 Durchstöbere meine Repositories für aktuelle Projekte
-- 💬 Frag mich gerne über **Moodle, React, Vue, PHP** und Frontend-Entwicklung
-- 📫 Erreichbar unter: **timlouis.rieck@gmail.com**
-- ⚡ Fun Fact: Ich liebe es, komplexe Probleme mit eleganten Lösungen zu lösen
+## `> whoami`
+
+```yaml
+name: Tim Louis Rieck
+location: Germany
+role: Full Stack Developer
+
+currently:
+  - crafting: Modern Web Applications
+  - exploring: AI-powered Development
+  - shipping: Production-ready Code
+
+interests:
+  - Clean Architecture
+  - Developer Experience
+  - Performance Optimization
+  - Open Source
+
+philosophy: |
+  "Write code that humans can read,
+   machines just happen to execute it."
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## `> tech --stack`
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<div align="center">
+
+### `// Frameworks & Meta-Frameworks`
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### `// Styling & UI`
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
-### Backend & Tools
+### `// Languages`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### `// Backend & Database`
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### `// Tools & Platforms`
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rieckt&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rieckt&theme=radical&hide_border=false" alt="GitHub Streak" height="200" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieckt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rieckt&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🔗 Connect with Me
+## `> contributions --visualize`
 
-<div align="center">
-  <a href="https://dev.to/rieckt" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="40" width="40" />
-  </a>
-  <a href="mailto:timlouis.rieck@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rieckt/rieckt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rieckt/rieckt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rieckt/rieckt/output/github-snake.svg" />
+</picture>
 
 ---
 
-## 📈 GitHub Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rieckt&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
-</div>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "The best error message is the one that never shows up."  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
+
+</div>
