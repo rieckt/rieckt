@@ -60,7 +60,7 @@ currently_building: Loumi
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieckt&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b5cf6&langs_count=6" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rieckt&theme=tokyonight" width="100%" />
 
 </td>
 </tr>
@@ -78,19 +78,30 @@ currently_building: Loumi
 
 <br/>
 
-<a href="https://github.com/rieckt/loumi-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rieckt&repo=loumi-app&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b5cf6&icon_color=7c3aed" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rieckt/create-loumi-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rieckt&repo=create-loumi-app&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b5cf6&icon_color=7c3aed" />
-</a>
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-<br/><br/>
+**[loumi-app](https://github.com/rieckt/loumi-app)**
 
-> **Loumi** &mdash; Digital Twin Platform für Wärmepumpen-Beratung
->
-> `Next.js 16` `React 19` `TypeScript` `Convex` `Turborepo` `Tailwind CSS`
+Digital Twin Platform für Wärmepumpen-Beratung
+
+`Next.js 16` `React 19` `TypeScript`
+`Convex` `Turborepo` `Tailwind CSS`
+
+</td>
+<td align="center" width="50%" valign="top">
+
+**[create-loumi-app](https://github.com/rieckt/create-loumi-app)**
+
+CLI Scaffold Tool für Loumi-Projekte
+
+`TypeScript` `Commander` `Node.js`
+`Convex` `Better Auth` `Sanity`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -136,12 +147,13 @@ currently_building: Loumi
 
 <br/>
 
-<a href="https://github.com/rieckt">
-  <img src="https://streak-stats.demolab.com/?user=rieckt&hide_border=true&background=0D1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=64748b&currStreakNum=c4b5fd&sideNums=c4b5fd" width="49%" />
-</a>
-<a href="https://github.com/rieckt">
-  <img src="https://github-readme-stats.vercel.app/api?username=rieckt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b5cf6&icon_color=7c3aed&include_all_commits=true&count_private=true" width="49%" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rieckt&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rieckt&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rieckt&theme=tokyonight&utcOffset=1" width="32%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rieckt&theme=tokyonight" width="100%" />
 
 <br/><br/>
 
