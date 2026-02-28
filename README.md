@@ -19,13 +19,6 @@ Aktuell: [**Loumi**](https://github.com/rieckt/loumi-app) — Digital Twin Platf
 <tr>
 <td width="50%">
 
-**[loumi-app](https://github.com/rieckt/loumi-app)**<br/>
-Digital Twin Platform für Wärmepumpen-Beratung<br/>
-<sub>Next.js · React 19 · TypeScript · Convex · Turborepo</sub>
-
-</td>
-<td width="50%">
-
 **[create-loumi-app](https://github.com/rieckt/create-loumi-app)**<br/>
 CLI Scaffold Tool für Loumi-Projekte<br/>
 <sub>TypeScript · Commander · Node.js</sub>
