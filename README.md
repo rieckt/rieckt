@@ -40,14 +40,6 @@ CLI Scaffold Tool für Loumi-Projekte<br/>
 
 `Next.js` · `React` · `TypeScript` · `TanStack` · `Astro` · `Node.js` · `Convex` · `Vercel`
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rieckt&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rieckt&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rieckt&theme=github_dark" width="100%" alt="Activity" />
-</picture>
-
 <br/>
 
 <sub><a href="mailto:timlouis.rieck@gmail.com">timlouis.rieck@gmail.com</a></sub>
