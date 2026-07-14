@@ -1,31 +1,33 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile-header-mobile-dark.svg" />
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile-header-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile-poster-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile-poster-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-poster-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-poster-light.svg" />
   <img
-    src="./assets/profile-header-light.svg"
-    alt="Tim-Louis Rieck, product engineer working on AI agent systems, reusable engineering workflows, and product platforms."
+    src="./assets/profile-poster-light.svg"
+    alt="Tim-Louis Rieck, product engineer in Lübeck. Build the system that builds the product. Agent systems, reusable engineering workflows, and product platforms."
     width="100%"
   />
 </picture>
 
-# Building reliable systems for complex product work.
+<p align="center">
+  <a href="https://riecktm.de"><strong>riecktm.de</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://de.linkedin.com/in/tim-louis-rieck"><strong>LinkedIn</strong></a>
+</p>
 
-I'm a product engineer from Lübeck working on AI agent systems, developer tooling, and web platforms for complex domains. I design the architecture, workflows, and interfaces that turn messy product work into dependable software. My bias is toward clear models, measurable behavior, and tools that hold up beyond the demo.
+<details>
+<summary><strong>About the work</strong></summary>
+<br/>
+I work on AI agent systems, reusable engineering workflows, and product platforms for complex operational domains, including energy technology. My bias is toward clear models, measurable behavior, and tooling that becomes more valuable each time it is reused.
+</details>
 
-## Now
+<details>
+<summary><strong>How this profile is built</strong></summary>
+<br/>
+This README is compiled from <a href="./profile/profile.json"><code>profile/profile.json</code></a> into four self-contained SVGs with embedded brand fonts, dedicated mobile layouts, dark and light themes, and reduced-motion support. It uses no external widgets or runtime APIs.
 
-**Agent systems**<br/>Skills, evals, and orchestration patterns for more reliable AI-assisted engineering.
-
-**Reusable engineering workflows**<br/>Tooling and conventions that turn repeated development work into systems a team can trust.
-
-**Product platforms**<br/>Web products for operational domains, including energy technology, built around clear models and durable interfaces.
-
-## Working stack
-
-Architecture first. TypeScript, React, TanStack, Astro, Node.js, Convex, and Vercel when they fit the job.
-
-## Elsewhere
-
-For web work and collaboration, visit [riecktm.de](https://riecktm.de) or find me on [LinkedIn](https://de.linkedin.com/in/tim-louis-rieck).
+```sh
+python3 scripts/build-profile.py
+```
+</details>

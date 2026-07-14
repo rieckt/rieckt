@@ -1,0 +1,51 @@
+name: Verify Profile
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+      - "assets/profile-poster-*.svg"
+      - "profile/**"
+      - "scripts/build-profile.py"
+      - ".github/workflows/profile.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "assets/profile-poster-*.svg"
+      - "profile/**"
+      - "scripts/build-profile.py"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
+      - name: Regenerate profile assets
+        run: python3 scripts/build-profile.py
+
+      - name: Validate generated SVGs
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree
+
+          assets = sorted(Path("assets").glob("profile-poster-*.svg"))
+          if len(assets) != 4:
+              raise SystemExit(f"expected 4 profile posters, found {len(assets)}")
+          for asset in assets:
+              ElementTree.parse(asset)
+              print(f"valid {asset}")
+          PY
+
+      - name: Check generated assets are current
+        run: git diff --exit-code -- assets/profile-poster-*.svg

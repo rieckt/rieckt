@@ -1,0 +1,49 @@
+{
+  "version": "02",
+  "handle": "rieckt",
+  "name": "Tim-Louis Rieck",
+  "role": "Product Engineer",
+  "location": "Lübeck",
+  "headline": [
+    "BUILD THE",
+    "SYSTEM THAT",
+    "BUILDS THE",
+    "PRODUCT."
+  ],
+  "mobileHeadline": [
+    "BUILD THE",
+    "SYSTEM",
+    "THAT BUILDS",
+    "THE PRODUCT."
+  ],
+  "tagline": "Ship the factory, not the feature.",
+  "domains": [
+    "AGENTS",
+    "WORKFLOWS",
+    "PLATFORMS",
+    "ENERGY TECH"
+  ],
+  "focus": [
+    {
+      "label": "AGENT SYSTEMS",
+      "title": "Skills, evals, orchestration.",
+      "description": "Make AI-assisted engineering dependable."
+    },
+    {
+      "label": "WORKFLOWS",
+      "title": "Repeat work by design.",
+      "description": "Turn conventions into systems teams trust."
+    },
+    {
+      "label": "PLATFORMS",
+      "title": "Model the domain first.",
+      "description": "Build products that can keep evolving."
+    }
+  ],
+  "loop": [
+    "MODEL",
+    "ORCHESTRATE",
+    "EVALUATE",
+    "SHIP"
+  ]
+}
