@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" role="img" aria-labelledby="title">
+  <title id="title">Visit riecktm.de</title>
+  <rect x="0.5" y="0.5" width="279" height="63" fill="#080D09" stroke="#F1EADC" stroke-opacity="0.22" />
+  <rect width="6" height="64" fill="#FF5C35" />
+  <text x="24" y="39" fill="#F1EADC" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.8">RIECKTM.DE</text>
+  <path d="M244 22h14v14M258 22l-18 18" fill="none" stroke="#D9FF43" stroke-width="2" />
+</svg>

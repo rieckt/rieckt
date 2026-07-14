@@ -4,7 +4,7 @@ on:
   pull_request:
     paths:
       - "README.md"
-      - "assets/profile-poster-*.svg"
+      - "assets/*.svg"
       - "profile/**"
       - "scripts/build-profile.py"
       - ".github/workflows/profile.yml"
@@ -13,7 +13,7 @@ on:
       - main
     paths:
       - "README.md"
-      - "assets/profile-poster-*.svg"
+      - "assets/*.svg"
       - "profile/**"
       - "scripts/build-profile.py"
       - ".github/workflows/profile.yml"
@@ -39,10 +39,14 @@ jobs:
           from pathlib import Path
           from xml.etree import ElementTree
 
-          assets = sorted(Path("assets").glob("profile-poster-*.svg"))
-          if len(assets) != 4:
-              raise SystemExit(f"expected 4 profile posters, found {len(assets)}")
-          for asset in assets:
+          posters = sorted(Path("assets").glob("profile-poster-*.svg"))
+          links = sorted(Path("assets").glob("link-*.svg"))
+          if len(posters) != 4 or len(links) != 2:
+              raise SystemExit(
+                  f"expected 4 profile posters and 2 link buttons, "
+                  f"found {len(posters)} and {len(links)}"
+              )
+          for asset in posters + links:
               ElementTree.parse(asset)
               print(f"valid {asset}")
           PY
