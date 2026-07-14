@@ -1,40 +1,31 @@
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg" />
-  <img alt="Tim-Louis Rieck" src="./header-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile-header-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile-header-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
+  <img
+    src="./assets/profile-header-light.svg"
+    alt="Tim-Louis Rieck, product engineer working on AI agent systems, reusable engineering workflows, and product platforms."
+    width="100%"
+  />
 </picture>
 
-<br/>
+# Building reliable systems for complex product work.
 
-Digitale Zwillinge, moderne Web-Architektur, Developer Tools.<br/>
-Aktuell: [**Loumi**](https://github.com/rieckt/loumi-app) — Digital Twin Platform für Wärmepumpen-Beratung.
+I'm a product engineer from Lübeck working on AI agent systems, developer tooling, and web platforms for complex domains. I design the architecture, workflows, and interfaces that turn messy product work into dependable software. My bias is toward clear models, measurable behavior, and tools that hold up beyond the demo.
 
-</div>
+## Now
 
-<br/>
+**Agent systems**<br/>Skills, evals, and orchestration patterns for more reliable AI-assisted engineering.
 
-<table>
-<tr>
-<td width="50%">
+**Reusable engineering workflows**<br/>Tooling and conventions that turn repeated development work into systems a team can trust.
 
-**[create-loumi-app](https://github.com/rieckt/create-loumi-app)**<br/>
-CLI Scaffold Tool für Loumi-Projekte<br/>
-<sub>TypeScript · Commander · Node.js</sub>
+**Product platforms**<br/>Web products for operational domains, including energy technology, built around clear models and durable interfaces.
 
-</td>
-</tr>
-</table>
+## Working stack
 
-<br/>
+Architecture first. TypeScript, React, TanStack, Astro, Node.js, Convex, and Vercel when they fit the job.
 
-<div align="center">
+## Elsewhere
 
-`Next.js` · `React` · `TypeScript` · `TanStack` · `Astro` · `Node.js` · `Convex` · `Vercel`
-
-<br/>
-
-<sub><a href="mailto:timlouis.rieck@gmail.com">timlouis.rieck@gmail.com</a></sub>
-
-</div>
+For web work and collaboration, visit [riecktm.de](https://riecktm.de) or find me on [LinkedIn](https://de.linkedin.com/in/tim-louis-rieck).
